@@ -53,7 +53,7 @@
 <br/><br/>
 <div id="Stats">
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=BICH0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&&title_color=de0000&text_color=ededed&icon_color=910000&border_color=690000&bg_color=141414&hide_border=false&locale=es&border_radius=1rem&custom_title=BICHO's Github Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeejasonn&langs_count=3&layout=compact&title_color=de0000&card_width=328&text_color=ededed&icon_color=910000&bg_color=141414&hide_border=true&locale=es&border_radius=0.9rem&custom_title=BICHO's Top Programming Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeejasonn&langs_count=3&layout=compact&title_color=de0000&card_width=320&text_color=ededed&icon_color=910000&bg_color=141414&hide_border=true&locale=es&border_radius=0.9rem&custom_title=BICHO's Top Programming Languages" />
 </div>
 <!--
 **BICH0/BICH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
